@@ -20,7 +20,7 @@ git clone https://github.com/OrdinaryHumanDAO/console-video.git
 ```
 cd your_path_to_project\console_video
 ```
-**3. Compile the source files**
+**3. Build the source files**
 ```
 gradle build
 ```
@@ -34,7 +34,12 @@ gradle run --args="<your video file path>" --console=plain
 Use this video this time<br>
 [https://www.youtube.com/watch?v=M3Keg5XKJO8](https://www.youtube.com/watch?v=M3Keg5XKJO8)
 
-**2. Run the program**
+**2. Build the source files**
+```
+gradle build
+```
+
+**3. Run the program**
 ```
 gradle run --args="../mexican_cat.mp4" --console=plain
 ```
