@@ -1,5 +1,11 @@
 # Console_Video
 [![Made with JAVA](https://img.shields.io/badge/Made_with-JAVA-1abc9c.svg)](https://en.wikipedia.org/wiki/Java_(programming_language))
+This program display a video on the console screen using javaCV<br>
+<br>
+For more information about javaCV, please click here.<br>
+[https://github.com/bytedeco/javacv](https://github.com/bytedeco/javacv)<br>
+<br>
+ANSI Escape Code must be enabled for this program to work
 
 ## Getting Started
 Clone, compile and run right away!
@@ -25,9 +31,8 @@ gradle run --args="<your video file path>" --console=plain
 
 ## Example
 **1. Prepare video file**
-
-![console_mexican_cat.mp4](https://github.com/OrdinaryHumanDAO/console-video/blob/main/mexican_cat.mp4)
-source=[un dos tres cuatro (mexican cat)](https://www.youtube.com/watch?v=M3Keg5XKJO8)
+Use this video this time<br>
+[https://www.youtube.com/watch?v=M3Keg5XKJO8](https://www.youtube.com/watch?v=M3Keg5XKJO8)
 
 **2. Run the program**
 ```
