@@ -26,14 +26,14 @@ gradle run --args="<your video file path>" --console=plain
 ## Example
 **1. Prepare video file**
 
-![console_mexican_cat.mp4](https://github.com/OrdinaryHumanDAO/console-image/blob/main/mexican_cat.mp4)
+![console_mexican_cat.mp4](https://github.com/OrdinaryHumanDAO/console-video/blob/main/mexican_cat.mp4)
 source=[un dos tres cuatro (mexican cat)](https://www.youtube.com/watch?v=M3Keg5XKJO8)
 
 **2. Run the program**
 ```
 gradle run --args="../mexican_cat.mp4" --console=plain
 ```
-![console_mexican_cat.mp4](https://github.com/OrdinaryHumanDAO/console-image/blob/main/console_mexican_cat.gif)
+![console_mexican_cat.mp4](https://github.com/OrdinaryHumanDAO/console-video/blob/main/console_mexican_cat.gif)
 
 
 ## License
