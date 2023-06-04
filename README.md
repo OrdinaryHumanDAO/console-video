@@ -1,5 +1,5 @@
 # Console_Video
-[![Made with JAVA](https://img.shields.io/badge/Made_with-JAVA-1abc9c.svg)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![Made with JAVA](https://img.shields.io/badge/Made_with-JAVA-1abc9c.svg)](https://en.wikipedia.org/wiki/Java_(programming_language))<br>
 This program display a video on the console screen using javaCV<br>
 <br>
 For more information about javaCV, please click here.<br>
@@ -30,7 +30,7 @@ gradle run --args="<your video file path>" --console=plain
 ```
 
 ## Example
-**1. Prepare video file**
+**1. Prepare video file**<br>
 Use this video this time<br>
 [https://www.youtube.com/watch?v=M3Keg5XKJO8](https://www.youtube.com/watch?v=M3Keg5XKJO8)
 
